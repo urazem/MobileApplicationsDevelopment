@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab8-SQLite</string>
+    <string name="f1">Field 1</string>
+    <string name="f2">Field 2</string>
+    <string name="result">Result</string>
+    <string name="in">ВВОД ДАННЫХ</string>
+    <string name="out">ВЫВОД ДАННЫХ</string>
+    <string name="delete">УДАЛИТЬ</string>
+
+</resources>
